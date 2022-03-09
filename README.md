@@ -1,13 +1,12 @@
 # PrabhavGupta5.github.io
-# Portfolio Project
+# Presenting my Portfolio Project
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
-This project is my personal portfolio website.
+This project is my personal portfolio website. I really enjoyed working on this project and spent any time i could on it, It's a fully responsive front end portolio website.
 	
 ## Technologies
 Project is created with:
