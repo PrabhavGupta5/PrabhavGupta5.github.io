@@ -6,8 +6,11 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is my personal portfolio website. I really enjoyed working on this project and spent any time i could on it, It's a fully responsive front end portolio website.
-I had used HTML to built this website and gave a structure to the website, used CSS to design my website at various places like buttons, text alignments,  giving different colours to the website etc and used JavaScript to gave some functionality to my webpage such as I had used a scrolling bar in the website that scrolls us to top and I had also used JS in the navbar in fading out.
+This project is my personal portfolio website. I really enjoyed working on this project and spent any time I could on it.
+* It's a fully responsive front end portolio website.
+* Used HTML to built this website and gave a structure to the website 
+* Used CSS to design my website at various places like buttons, text alignments, giving different colours to the website etc 
+* Used JavaScript to gave some functionality to my webpage such as I had used a scrolling bar in the website that scrolls us to top and I had also used JS in the navbar in fading In and Out.
 
 	
 ## Technologies
